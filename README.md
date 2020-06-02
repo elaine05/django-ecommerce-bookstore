@@ -36,6 +36,8 @@ A Beautifully designed Online Bookstore which contains multiple Books, the site 
 
 Also, before purchasing any book you will be redirected to the login or signup page. So that new users can signup on the site and then can buy their favourite book. The site also informs which book is available and which one is out of stock !.
 
+Uses Client Side Integration approach.
+
 * checkout the site here: https://ym-djecom.herokuapp.com
 
 ## Get_Started
