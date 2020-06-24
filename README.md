@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://twilio-cms-prod.s3.amazonaws.com/images/django-dark.width-808.png" width="40%"><img src="https://media.istockphoto.com/photos/bookstore-written-with-wooden-letters-on-rustic-wooden-surface-picture-id482441110?k=6&m=482441110&s=170667a&w=0&h=i0s0sLZoUOuQ25ljz8FnF0YCpqt-pEoacPwvIbcbAmg=" width="298.99">
+  <img src="https://github.com/YashMarmat/Pages-App-django/blob/master/templates/django bookstore logo.png" width="40%">
 </p>
 
 
